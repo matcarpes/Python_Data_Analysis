@@ -1,2 +1,2 @@
-# Python_Data_Analysis
+# Python_Studies
 My Python studies
